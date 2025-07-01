@@ -57,10 +57,3 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 - [Vite](https://vitejs.dev/)
 - [Shazam Core API](https://rapidapi.com/apidojo/api/shazam-core/)
 
-## License
-
-MIT
-
----
-
-Inspired by [JS Mastery Pro](https://www.jsmastery.pro).
