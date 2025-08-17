@@ -50,6 +50,8 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 - `npm run preview` – Preview production build
 
 ## Tech Stack
+Deployement:-
+https://harmonix-k56v.onrender.com/
 
 - [React](https://reactjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
